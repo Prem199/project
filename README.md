@@ -5,20 +5,17 @@ Create a login and signup page as below.Save the entries in database. When you a
 
 Process:
 
-Login and Signup page Created using the concepts of Php, Mysql
+Home page describes the link to the signup and signin.
 
-user need to Signup first using an email id(email id should not been use before).
+click onto signup and register ourselves into the login page.
 
-and along with the email id the user need to been also enter a username(minimum 5 characters).
+These uses the concepts of Php, Mysql.
 
-and a password(atleast 1 uppercase, 1 special character, 1 lowercase, 1 number).
+user must see that to Signup first he used to give an email id and that email id should not been use before to get signed up into the page.
+user must need to enter a username of minimum 5 characters and must ensure that a password consits atleast 1 uppercase, 1 special character, 1 lowercase and 1 number.
 
+The data is stored in the database using phpmyadmin and Mysql and the user need to enter the email address or username to login.
 
-all the data is stored in the database using phpmyadmin and Mysql
-
-user need to enter the email address or username to login 
-
-once user is logged in he/she are redirected to the main page and there he can logout the session from the 
-account dropdown menu.
+once all the process are completed then  user is logged in he/she are redirected to the main page and there he can logout the session from the account dropdown menu.
 
 
