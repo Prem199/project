@@ -3,7 +3,7 @@ Assignment :
 
 Create a login and signup page as below.Save the entries in database. When you are done with signup ,it should be directed to login up 
 
-PROCESS:
+Process:
 
 Login and Signup page Created using the concepts of Php, Mysql
 
